@@ -1,4 +1,4 @@
-<?php
+```<?php
 require_once 'Zend/Loader.php';
 require_once 'Zend/Db.php';
 
@@ -52,3 +52,4 @@ var_dump( $count );
 
 var_dump( $db->describeTable( 'testtable' ) );
 ?>
+```
